@@ -1,0 +1,18 @@
+cd ../
+cd Student2
+cd Desktop\
+ruby wheels.rb
+chcp
+chcp 866
+ruby test.rb
+ruby wheels.rb 
+chcp
+cd Student2
+ruby wheels.rb
+chcp
+chcp 866
+chcp
+cd ../student2
+cd Desktop\
+ruby test.rb
+ruby wheels.rb 
